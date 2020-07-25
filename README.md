@@ -5,7 +5,7 @@ user: guest
 password: guest
 
 
-Commandto use this script:
+Commands use this script:
 - methods
 - UDP (HOST) (PORT) (TIME) (SIZE)
 - SYN (HOST) (PORT) (TIME) (SIZE)
